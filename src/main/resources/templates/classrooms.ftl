@@ -27,6 +27,6 @@
 </#list>
 </table>
 <center><button><a href="/index.html">Return</a></button></center>
-<center><button><a href="/index.html">ReNew</a></button></center>
+<center><button><a href="/ui/rooms/renew">reNew</a></button></center>
 </body>
 </html>
