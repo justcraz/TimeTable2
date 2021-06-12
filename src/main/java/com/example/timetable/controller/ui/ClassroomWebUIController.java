@@ -33,4 +33,9 @@ public class ClassroomWebUIController {
         model.addAttribute("rooms",service.getAll());
     return "classrooms";
     }
+    @RequestMapping("/renew")
+    String reNew(Model model){
+        model.addAttribute("classrooms",service.reNew());
+        return "classrooms";
+    }
 }
