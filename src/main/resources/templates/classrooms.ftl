@@ -8,7 +8,7 @@
 </head>
 <body>
 <h3>List of Rooms</h3>
-<table class="table table-dark table-striped table table-bordered border-warning" align="center" style="width: 2000px;">
+<table class="table table-dark table-striped table table-bordered border-warning" align="center" style="width: 1500px;">
 
     <th>ID</th>
     <th>Name</th>
