@@ -7,7 +7,9 @@
     <title>Rooms</title>
 </head>
 <body>
+<center>
 <h3>List of Rooms</h3>
+</center>
 <table class="table table-dark table-striped table table-bordered border-warning" align="center" style="width: 1500px;">
 
     <th>ID</th>
@@ -15,9 +17,7 @@
     <th>Capacity</th>
     <th>Delete</th>
     </thead>
-    <center>
     <#list rooms as room>
-    </center>
     <tr>
         <td>${room.id}</td>
         <td>${room.name}</td>
