@@ -15,7 +15,9 @@
     <th>Capacity</th>
     <th>Delete</th>
     </thead>
+    <center>
     <#list rooms as room>
+    </center>
     <tr>
         <td>${room.id}</td>
         <td>${room.name}</td>
